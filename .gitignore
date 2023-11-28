@@ -259,3 +259,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/ThreeD-recontrution/1.mp4
+/ThreeD-recontrution/model/yolov4.weights
+/ThreeD-recontrution/model/yolov4.cfg
+/ThreeD-recontrution/model/coco.names
